@@ -17,6 +17,6 @@ while True:
 clear.clear()
 input(Fore.YELLOW+f"[<]le message '{message}' à bien etais envoyer au webhook...")
 
-# script nul a chier mais j'mets quand meme des crédits mwawawa
+# script nuL  mais j'mets quand meme des crédits 
 # créator : intrable
 # serveur discord : .gg/freeforreal
